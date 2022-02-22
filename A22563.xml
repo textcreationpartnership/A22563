@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An inquisition taken [blank] in the county of [blank] the [blank] day of [blank] in the [blank] yeare of the raigne of our soveraigne Lord Charles, of England, Scotland, France and Ireland, Defender of the faith, &amp;c. Before [blank] Gent. Deputy unto Hugh May Esq. Clerke of the Market of his Maiesties most honourable houshold, within the verge, and thorow out the whole realme of England, as well within liberties as without; by the oath of [blank] honest and lawfull men, of the price of graine, victuals, horse-meat, lodgings, and other things rated and taxed, in manner and forme following. viz  ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22563</idno>
+            <idno type="STC">STC 9000.3</idno>
+            <idno type="STC">ESTC S114745</idno>
+            <idno type="EEBO-CITATION">99849968</idno>
+            <idno type="PROQUEST">99849968</idno>
+            <idno type="VID">15149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1270:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An inquisition taken [blank] in the county of [blank] the [blank] day of [blank] in the [blank] yeare of the raigne of our soveraigne Lord Charles, of England, Scotland, France and Ireland, Defender of the faith, &amp;c. Before [blank] Gent. Deputy unto Hugh May Esq. Clerke of the Market of his Maiesties most honourable houshold, within the verge, and thorow out the whole realme of England, as well within liberties as without; by the oath of [blank] honest and lawfull men, of the price of graine, victuals, horse-meat, lodgings, and other things rated and taxed, in manner and forme following. viz  ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>S.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1633?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Eighty-four lines, seventy-one commodities. The Bodleian Library copy has May's name crossed out and that of his successor, Paul Pert, added by pen, with prices found at Woodstock 20 August 1638. Probably printed in connection with STC 9000, but see also 8776 and 9009--STC.</note>
+                  <note>Place of publication and suggested publication date from STC.</note>
+                  <note>Formerly STC 9259.</note>
+                  <note>Identified as STC 9259a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food prices --  Great Britain --  Forms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:15149:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>An Inquiſition taken <add>at Woodſtock</add> in the County of  the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of Auguſt  in the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> yeare of the Raigne of our Soveraigne Lord CHARLES, of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. Before <add>Charles Walker</add>  Gent. Deputy unto  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Eſq. Clerke of the Market of his Maieſtie moſt Honourable houſhold, Within the Verge, and tho<g ref="char:EOLhyphen"/>row out the Whole Realme of <hi>England,</hi> as well within Liberties as without; By the Oath of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> honeſt and lawfull men, Of the price of Graine, Victuals, Horſe-meat, Lodgings, and other things rated and taxed, in manner and forme following. <hi>viz.</hi>
+            </head>
+            <list>
+               <item>FIrſt, a quarter of the beſt wheat cleane and ſwéet in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter of ſecond Whea in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter third Wheat in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter beſt Barley in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quarter ſecond Barley in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter beſt Mault in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter ſecond Mault in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item a quarter beſt Beanes or Peaſe in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quarter ſecond Beanes <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Peaſe in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a buſhell of Beanes or Paſe mingled with Oats for provender in Iune <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter beſt Oates in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a Buſhell of the ſame wihin every Inne or other houſe <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a Kilderkin of good Ale, e double Béere, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a Kilderkin of good Ale or Béere, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a full quart of the beſt Ale or Béere by meaſure ſeaed <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a full quart of ſingle Ale or Beéere by meaſure ſeald <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a pound of Butter ſwéet and new the beſt in the Mrket <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And pound of ſecond Butter ſwéet and new in Shop or Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a pound beſt Chéeſe in the Shop or Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a pound ſecond Chéeſe in Shop or Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a ſtone of the beſt Béefe at the Butchers, weighing eight pound Avoirdepois <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a Stone of ſecond Béefe at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter beſt Veale at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quarter ſecond Veale at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter beſt Wether Mutton at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quarter ſecond Wether Mutton at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item a quarter beſt Lambe at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quarter ſecond Lamber at the Butchers <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item a fat Pigge the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a leane or ſecond Pigge in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item a couple of Capons the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a leane or ſecond couple of Capons in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a fat Gooſe the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a couple of Chickens the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a couple of ſecond Chickens in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a couple of Rabbets the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a couple of ſecond Rabbets in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a dozen of Pigeons the beſt in the Market <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, that every man being in Company, ſixe or more together, having at Dinner or Supper, good Bread and Drinke, Béefe and Mutton, boyled or roſted or elſe Veale boyled , and Pigge, Béefe or Veale roſted: or otherwiſe upon Fiſh-dayes to have good Bread &amp; Drinke, ſalt Fiſh, or ſalt Salmon, Ling, Egges, and Butter, and ſo in default of one meate, to have another, every man to pay for his meale <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a pound of Tallow Candles made of Wicke <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a pound of Cotton or Watching Candles <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a Fether-bed, with neceſſary apparrell for one man, one night, and ſo depart <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a Fether-bed, with neceſſary apparrell by the wéeke for one man alone <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And the like Fether-bed and furniture for two together, by the wéeke <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a Mattreſſe or Flocke-bed by the wéeke, for one or two together <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a Chamber with two beds and good furniture one night and ſo depart <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And the like Chamber and furniture by the wéeke <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, if any man abide in any ſuch Chamber, over and above one day and one night, then to pay after the rate of the whole wéeke, being as aforeſaid. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, thrée Horſe-loaves at the Bakers, every Loafe weighing  <gap reason="blank" extent="1 letter">
+                     <desc>_</desc>
+                  </gap>  Troy. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And two of the ſame Loaves within every Iune or other houſe <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a load of Straw for litter with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, an hundred weight of good and ſwéet Haie <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item every bottle of Haie weighing  <gap reason="blank" extent="1 letter">
+                     <desc>_</desc>
+                  </gap>  Avoirdepois <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, Haie and Litter day and night for one Horſe within every Iune <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And the like Haie and Litter day and night for one Horſe within every other houſe <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, good Graſſe for one Horſe day and night, and ſo depart <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And the like good Graſſe for one Horſe by the whole wéeke <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a load of Talwood, kéeping the Aſſize with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a thouſand Billets, kéeping the Aſſize with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a hundred of Fagots, kéeping the Aſſize with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, one of the ſame Fagots within every houſe <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a load of good bruſh Bavines, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a load of long or great Logge-Wood, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, an hundred of good Oake Boords, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, an hundred of good Elme boords, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a thouſand of Brickes, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quarter of Charcoles, with carriage <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a vacant or empty roome, either ſtable or chamber by the wéeke <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item, a quart of the beſt Claret or White Wine at the Vintners <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>And a quart of the beſt Canary Sacke at the Vintners by meaſure ſealed <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+               <item>Item a quart of the beſt Sherry ſacke at the Vintners by meaſure ſealed <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </item>
+            </list>
+            <p>
+               <add>The <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> price <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Woodſtock</add>
+            </p>
+            <closer>
+               <add>God ſave the kyng</add>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
